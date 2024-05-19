@@ -1,0 +1,17 @@
+ENTRADAS
+
+morado = Pin_99 = A4
+naranja = Pin_75 = A3
+amarillo = Pin_2 = A2
+verde = Pin_33 = A1
+café = Pin_71 = A0
+
+
+*******
+
+SALIDAS
+
+negro = Pin_52 = S1
+blanco = Pin_37 = S2
+amarillo = Pin_40 = S3
+verde = Pin_49 = S4

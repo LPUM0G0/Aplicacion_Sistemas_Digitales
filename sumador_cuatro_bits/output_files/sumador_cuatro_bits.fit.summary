@@ -1,0 +1,11 @@
+Fitter Status : Successful - Wed Apr 24 06:22:06 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : sumador_cuatro_bits
+Top-level Entity Name : sumador_cuatro_bits
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 8 / 240 ( 3 % )
+Total pins : 16 / 80 ( 20 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

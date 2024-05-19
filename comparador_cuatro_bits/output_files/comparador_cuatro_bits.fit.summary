@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Apr 27 12:35:53 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : comparador_cuatro_bits
+Top-level Entity Name : comparador_cuatro_bits
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 11 / 240 ( 5 % )
+Total pins : 19 / 80 ( 24 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

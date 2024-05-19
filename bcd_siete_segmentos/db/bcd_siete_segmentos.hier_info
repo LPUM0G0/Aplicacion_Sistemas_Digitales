@@ -1,0 +1,36 @@
+|bcd_siete_segmentos
+E[0] => B.IN0
+E[0] => C.IN0
+E[0] => D.IN0
+E[0] => N.IN1
+E[0] => B.IN0
+E[0] => C.IN0
+E[0] => N.IN0
+E[0] => I.IN0
+E[1] => B.IN0
+E[1] => C.IN1
+E[1] => N.IN0
+E[1] => N.IN1
+E[1] => C.IN1
+E[1] => D.IN1
+E[1] => N.IN0
+E[2] => I.IN1
+E[2] => B.IN1
+E[2] => D.IN1
+E[2] => N.IN1
+E[2] => B.IN1
+E[2] => C.IN1
+E[2] => N.IN1
+E[3] => I.IN1
+E[3] => B.IN1
+E[3] => L.IN1
+B << B.DB_MAX_OUTPUT_PORT_TYPE
+C << C.DB_MAX_OUTPUT_PORT_TYPE
+D << D.DB_MAX_OUTPUT_PORT_TYPE
+N << N.DB_MAX_OUTPUT_PORT_TYPE
+H << comb.DB_MAX_OUTPUT_PORT_TYPE
+I << I.DB_MAX_OUTPUT_PORT_TYPE
+J << J.DB_MAX_OUTPUT_PORT_TYPE
+L << L.DB_MAX_OUTPUT_PORT_TYPE
+
+

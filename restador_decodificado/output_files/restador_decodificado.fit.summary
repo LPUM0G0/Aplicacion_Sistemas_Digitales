@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun May 19 06:14:25 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : restador_decodificado
+Top-level Entity Name : restador_decodificado
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 12 / 240 ( 5 % )
+Total pins : 24 / 80 ( 30 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

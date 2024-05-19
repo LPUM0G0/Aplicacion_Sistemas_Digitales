@@ -1,0 +1,27 @@
+|restador_decodificado
+A[0] => Add0.IN6
+A[1] => Add0.IN5
+A[2] => Add0.IN4
+B[0] => Add0.IN3
+B[1] => Add0.IN2
+B[2] => Add0.IN1
+salida[0] << Mux6.DB_MAX_OUTPUT_PORT_TYPE
+salida[1] << <VCC>
+salida[2] << Mux5.DB_MAX_OUTPUT_PORT_TYPE
+salida[3] << <VCC>
+salida[4] << Mux4.DB_MAX_OUTPUT_PORT_TYPE
+salida[5] << Mux3.DB_MAX_OUTPUT_PORT_TYPE
+salida[6] << <VCC>
+salida[7] << Mux2.DB_MAX_OUTPUT_PORT_TYPE
+salida[8] << <VCC>
+salida[9] << <VCC>
+salida[10] << <VCC>
+salida[11] << Mux1.DB_MAX_OUTPUT_PORT_TYPE
+salida[12] << <VCC>
+salida[13] << <VCC>
+salida[14] << <VCC>
+salida[15] << Mux0.DB_MAX_OUTPUT_PORT_TYPE
+salida[16] << <VCC>
+signo << Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+
